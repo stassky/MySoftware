@@ -1,9 +1,5 @@
-# This is MySoftware
+import getpass
+print (getpass.getuser())
 
-def NewButton():
-    print("Click")
-NewButton()
 
-def NewScreen():
-    print("NewScreen")
-NewScreen()
+
